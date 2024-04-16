@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T06:38:43.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mq4gEE2rrMUCHZjO1ts2" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T08:01:13.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U2H6kPIt0ZBMqmnb8d05" version="24.2.3" type="github">
   <diagram name="第 1 页" id="-L-03HqwPkek8fqetsIw">
     <mxGraphModel dx="1483" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="350" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-1" value="单页面布局规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="340" width="159" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-3" value="data结构与解析规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-4" value="自定义图表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-5" value="Ehacrts图表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="495" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-6" value="图表样式规则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-9" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;规则定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="350" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;规则解析&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="355" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="355" width="120" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-14" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-15" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-16" value="图表解析&lt;div&gt;渲染&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="745" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-17" value="页面布局解析&lt;div&gt;渲染&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="745" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zC1Qj4MiZn7i1i-5uJiU-18" value="data解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="905" y="430" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
